@@ -1,0 +1,6 @@
+[submodule "VCU_Project2"]
+	path = VCU_Project2
+	url = https://github.com/we-eff/VCU_Project2.git
+[submodule "VCU_Project3"]
+	path = VCU_Project3
+	url = https://github.com/we-eff/VCU_Project3.git
