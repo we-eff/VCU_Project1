@@ -537,6 +537,21 @@
           </Files>
         </Group>
         <Group>
+          <GroupName>Documentation</GroupName>
+          <Files>
+            <File>
+              <FileName>Abstract.txt</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Abstract.txt</FilePath>
+            </File>
+            <File>
+              <FileName>MyFile.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\MyFile.c</FilePath>
+            </File>
+          </Files>
+        </Group>
+        <Group>
           <GroupName>::CMSIS</GroupName>
         </Group>
       </Groups>
