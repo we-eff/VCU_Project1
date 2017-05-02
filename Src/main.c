@@ -85,14 +85,9 @@ int main(void)
   MX_RNG_Init();
 
   /* USER CODE BEGIN 2 */
-<<<<<<< HEAD
-  dummyVariable[0] = 1;
-
-=======
   dummyVariable[0] = 0;
   foo(dummyVariable);
   
->>>>>>> origin/master
   /* USER CODE END 2 */
 
   /* Infinite loop */
