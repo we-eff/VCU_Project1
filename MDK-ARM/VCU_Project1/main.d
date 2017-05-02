@@ -36,3 +36,4 @@ vcu_project1\main.o: ../Inc/crc.h
 vcu_project1\main.o: ../Inc/quadspi.h
 vcu_project1\main.o: ../Inc/rng.h
 vcu_project1\main.o: ../Inc/gpio.h
+vcu_project1\main.o: ../VCU_Project2/Inc/module.h

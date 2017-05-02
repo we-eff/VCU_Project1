@@ -101,7 +101,7 @@ I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_qspi.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rng.h)(0x58BD10E1)
-F (../Src/main.c)(0x5900A7CC)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ../VCU_Project2/Inc --C99-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32L433xx -DUSE_HAL_DRIVER -DSTM32L433xx-o vcu_project1\main.o --omf_browse vcu_project1\main.crf --depend vcu_project1\main.d)
+F (../Src/main.c)(0x5900AADD)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ../VCU_Project2/Inc --C99-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32L433xx -DUSE_HAL_DRIVER -DSTM32L433xx-o vcu_project1\main.o --omf_browse vcu_project1\main.crf --depend vcu_project1\main.d)
 I (../Inc/main.h)(0x59005FEF)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x58BD10E0)
 I (../Inc/stm32l4xx_hal_conf.h)(0x59005FEE)
@@ -138,6 +138,7 @@ I (../Inc/crc.h)(0x59005FED)
 I (../Inc/quadspi.h)(0x59005FEE)
 I (../Inc/rng.h)(0x59005FEE)
 I (../Inc/gpio.h)(0x59005FED)
+I (../VCU_Project2/Inc/module.h)(0x5900AAC5)
 F (../Src/stm32l4xx_it.c)(0x59005FEE)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ../VCU_Project2/Inc --C99-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32L433xx -DUSE_HAL_DRIVER -DSTM32L433xx-o vcu_project1\stm32l4xx_it.o --omf_browse vcu_project1\stm32l4xx_it.crf --depend vcu_project1\stm32l4xx_it.d)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x58BD10E0)
 I (../Inc/stm32l4xx_hal_conf.h)(0x59005FEE)
@@ -273,6 +274,9 @@ I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_pwr_ex.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_qspi.h)(0x58BD10E1)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal_rng.h)(0x58BD10E1)
+F (..\VCU_Project2\Src\module.c)(0x5900AAC5)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ../VCU_Project2/Inc --C99-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32L433xx -DUSE_HAL_DRIVER -DSTM32L433xx-o vcu_project1\module.o --omf_browse vcu_project1\module.crf --depend vcu_project1\module.d)
+I (../VCU_Project2/Inc/module.h)(0x5900AAC5)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x57F66928)
 F (startup_stm32l433xx.s)(0x59005FF1)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include--pd "__UVISION_VERSION SETA 522" --pd "_RTE_ SETA 1" --pd "STM32L433xx SETA 1"--list startup_stm32l433xx.lst --xref -o vcu_project1\startup_stm32l433xx.o --depend vcu_project1\startup_stm32l433xx.d)
 F (../Drivers/STM32L4xx_HAL_Driver/Src/stm32l4xx_hal_pwr_ex.c)(0x58BD10E2)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc -I ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32L4xx/Include -I ../Drivers/CMSIS/Include -I ../VCU_Project2/Inc --C99-IC:\Users\WendelinF\git-Test\VCU_Project1\MDK-ARM\RTE\_VCU_Project1-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32L4xx_DFP\1.4.0\Device\Include-D__UVISION_VERSION="522" -D_RTE_ -DSTM32L433xx -DUSE_HAL_DRIVER -DSTM32L433xx-o vcu_project1\stm32l4xx_hal_pwr_ex.o --omf_browse vcu_project1\stm32l4xx_hal_pwr_ex.crf --depend vcu_project1\stm32l4xx_hal_pwr_ex.d)
 I (../Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h)(0x58BD10E0)

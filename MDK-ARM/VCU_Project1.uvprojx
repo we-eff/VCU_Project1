@@ -310,7 +310,7 @@
           </ArmAdsMisc>
           <Cads>
             <interw>1</interw>
-            <Optim>4</Optim>
+            <Optim>1</Optim>
             <oTime>0</oTime>
             <SplitLS>0</SplitLS>
             <OneElfS>1</OneElfS>
@@ -335,7 +335,7 @@
               <MiscControls>--C99</MiscControls>
               <Define>USE_HAL_DRIVER,STM32L433xx</Define>
               <Undefine></Undefine>
-              <IncludePath>../Inc; ../Drivers/STM32L4xx_HAL_Driver/Inc; ../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy; ../Drivers/CMSIS/Device/ST/STM32L4xx/Include; ../Drivers/CMSIS/Include</IncludePath>
+              <IncludePath>../Inc;../Drivers/STM32L4xx_HAL_Driver/Inc;../Drivers/STM32L4xx_HAL_Driver/Inc/Legacy;../Drivers/CMSIS/Device/ST/STM32L4xx/Include;../Drivers/CMSIS/Include;../VCU_Project2/Inc</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>
@@ -423,6 +423,11 @@
               <FileName>rng.c</FileName>
               <FileType>1</FileType>
               <FilePath>../Src/rng.c</FilePath>
+            </File>
+            <File>
+              <FileName>module.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\VCU_Project2\Src\module.c</FilePath>
             </File>
           </Files>
         </Group>
@@ -543,11 +548,6 @@
               <FileName>Abstract.txt</FileName>
               <FileType>5</FileType>
               <FilePath>.\Abstract.txt</FilePath>
-            </File>
-            <File>
-              <FileName>MyFile.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\MyFile.c</FilePath>
             </File>
           </Files>
         </Group>

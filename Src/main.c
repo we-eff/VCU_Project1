@@ -86,7 +86,8 @@ int main(void)
 
   /* USER CODE BEGIN 2 */
   dummyVariable[0] = 0;
-
+  foo(dummyVariable);
+  
   /* USER CODE END 2 */
 
   /* Infinite loop */
