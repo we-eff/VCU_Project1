@@ -4,3 +4,9 @@
 [submodule "VCU_Project3"]
 	path = VCU_Project3
 	url = https://github.com/we-eff/VCU_Project3.git
+[submodule "Library/Module1"]
+	path = Library/Module1
+	url = ../VCU_Project2.git
+[submodule "submodule_comm"]
+	path = submodule_comm
+	url = https://tawendelinfalschlunger@bitbucket.org/tawendelinfalschlunger/submodule_comm.git
